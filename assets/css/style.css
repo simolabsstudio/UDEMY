@@ -1,0 +1,25 @@
+.flex-auto {
+  -webkit-box-flex: 1;
+      -ms-flex: auto;
+          flex: auto;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.flex-auto{
+    flex: auto;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.header-carousel-button{
+    background-color:#111;
+    height:3rem;
+    width:3rem;
+    padding: 1rem;
+    border-radius:50%;
+    position:50%;
+    top:50%;
+}
